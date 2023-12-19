@@ -1,5 +1,5 @@
 var APP = {
-    API_STATION: "/api/stations.json",
+    API_STATION: "api/stations.json",
     MAP: L.map('map').setView([47.49163, 4.33834], 9),
     MAKER : [],
     API_STATION_FIREBASE : "https://station-maps-6a34b-default-rtdb.firebaseio.com/station-maps.json",
